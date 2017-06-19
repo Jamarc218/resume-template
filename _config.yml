@@ -1,6 +1,6 @@
 # Site settings
 title: "jekyll Resume Template"
-description: "I want to be a Robotic Engineer because i like working with robots and using code to make them move.Also when i watch tv shows about it they are able to make them do some cool things which is very interesting to me."
+description: "I want to be a Robotic Engineer because i like working with robots and using code to make them move.Also when i watch tv shows about it they are able to make them do some cool things which is very interesting to me"
 
 # Build settings
 markdown: kramdown
