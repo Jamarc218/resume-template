@@ -1,6 +1,6 @@
 # Site settings
 title: "jekyll Resume Template"
-description: duck duck
+description: resume
 
 # Build settings
 markdown: kramdown
